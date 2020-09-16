@@ -1,3 +1,5 @@
+package lab5;
+
 public class CheckingAccount extends Account {
     private double credit;
 

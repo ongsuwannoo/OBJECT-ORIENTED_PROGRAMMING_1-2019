@@ -1,3 +1,5 @@
+package lab5;
+
 public class Customer extends CheckingAccount {
     private String firstName;
     private String lastName;

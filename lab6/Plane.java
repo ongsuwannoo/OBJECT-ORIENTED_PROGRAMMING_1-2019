@@ -1,3 +1,5 @@
+package lab6;
+
 public class Plane extends Vehicle implements Flyable {
     protected String airline;
     protected String boeing;

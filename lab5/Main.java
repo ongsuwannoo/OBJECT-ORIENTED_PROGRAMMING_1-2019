@@ -1,16 +1,18 @@
+package lab5;
+
 // /* 3.2 */
-// class Main {
-//     public static void main(String[] args) {
-//         CheckingAccount a1 = new CheckingAccount(1000,"62070033",500);
-//         Customer c1 = new Customer();
-//         Customer c2 = new Customer("Harry","Potter");
-//         Customer c3 = new Customer("Harry","Potter",a1);
-//         Customer c4 = new Customer("", "", a1);
-//         System.out.println(c1.equals(c2));
-//         System.out.println(c3.equals(c2));
-//         System.out.println(c4.equals(c3));
-//     }
-// }
+class Main {
+    public static void main(String[] args) {
+        CheckingAccount a1 = new CheckingAccount(1000,"62070033",500);
+        Customer c1 = new Customer();
+        Customer c2 = new Customer("Harry","Potter");
+        Customer c3 = new Customer("Harry","Potter",a1);
+        Customer c4 = new Customer("", "", a1);
+        System.out.println(c1.equals(c2));
+        System.out.println(c3.equals(c2));
+        System.out.println(c4.equals(c3));
+    }
+}
 
 // /* 3.1 */
 // class Main {

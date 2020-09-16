@@ -1,3 +1,5 @@
+package lab6;
+
 public class Ship extends Vehicle implements Floatable {
 
     public Ship () {

@@ -1,3 +1,5 @@
+package lab4.FootballPlayer;
+
 public class Player {
     private String name;
     private String team;

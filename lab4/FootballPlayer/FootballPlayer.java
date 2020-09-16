@@ -1,3 +1,5 @@
+package lab4.FootballPlayer;
+
 public class FootballPlayer extends Player {
     private int playerNumber;
     private String Position;

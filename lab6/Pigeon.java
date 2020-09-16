@@ -1,3 +1,5 @@
+package lab6;
+
 public class Pigeon extends Bird {
     private static int numberOfPigeon;
 

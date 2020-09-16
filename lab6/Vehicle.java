@@ -1,3 +1,5 @@
+package lab6;
+
 public abstract class Vehicle implements Dieselable {
     protected double fuel;
 
